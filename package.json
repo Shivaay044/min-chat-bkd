@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Shivaay044/min-chat-bkd/issues"
   },
-  "homepage": "https://github.com/Shivaay044/min-chat-bkd#readme"
+  "homepage": "https://github.com/Shivaay044/min-chat-bkd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
 }
